@@ -8,6 +8,7 @@ services:
 before_script:
 - composer self-update
 - composer install --no-interaction
+- cp .env.travis .env
 - phpenv rehash
 
 install:

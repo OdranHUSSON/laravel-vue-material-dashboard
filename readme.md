@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/OdranHUSSON/laravel-vue-material-dashboard.svg?branch=master)](https://travis-ci.org/OdranHUSSON/laravel-vue-material-dashboard)
 # Laravel-vue-material-dashboard
 
 This is a simple but working integration of [Vue Material Dashboard](https://www.creative-tim.com/product/vue-material-dashboard) in Laravel 5.7.19 
